@@ -5,7 +5,7 @@
 </div>
 
 🎯 Programmatore presso Nethesis | 📍 Pesaro, Italia  
-🧠 Appassionato di tecnologie open source, VoIP e sviluppo backend  
+🧠 Appassionato di tecnologie open source, VoIP e sviluppo frontend  
 🎬 Fan del Marvel Cinematic Universe
 
 ---
