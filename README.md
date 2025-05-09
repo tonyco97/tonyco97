@@ -1,5 +1,9 @@
 # 👋 Ciao, sono Antonio
 
+<div align="center">
+    <img src="AntonioImage.png" alt="Nixie-IN14">
+</div>
+
 🎯 Programmatore presso Nethesis | 📍 Pesaro, Italia  
 🧠 Appassionato di tecnologie open source, VoIP e sviluppo backend  
 🎬 Fan del Marvel Cinematic Universe
