@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Ciao, sono Antonio
 
-<!--
-**tonyco97/tonyco97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Programmatore presso Nethesis | 📍 Pesaro, Italia  
+🧠 Appassionato di tecnologie open source, VoIP e sviluppo backend  
+🎬 Fan del Marvel Cinematic Universe
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Progetti in evidenza
+
+- [phone-island](https://github.com/nethesis/phone-island): Componente standalone per gestire chiamate, videochiamate, condivisione schermo e chat.
+- [nethvoice-cti](https://github.com/nethesis/nethvoice-cti): Progetto CTI per NethVoice.
+
+---
+
+## 📊 Statistiche GitHub
+
+![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=tonyco97&show_icons=true&theme=radical)
+![Linguaggi più utilizzati](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyco97&layout=compact&theme=radical)
+
+---
+
+## 🏆 Obiettivi e interessi
+
+- 🔧 Migliorare le competenze in TypeScript e Node.js
+- 📚 Contribuire a progetti open source
+- 🎓 Condividere conoscenze tramite blog o tutorial
+
+---
+
+## 📫 Contatti
+
+- LinkedIn: https://www.linkedin.com/in/antonio972209
+- Email: tonyco97.tc@gmail.com
