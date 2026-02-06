@@ -36,3 +36,6 @@
 
 - LinkedIn: https://www.linkedin.com/in/antonio972209
 - Email: tonyco97.tc@gmail.com
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/tonyco97)
+
