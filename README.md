@@ -97,11 +97,7 @@ Web CTI client for NethVoice, built with Next.js, React and Tailwind.
 
 ---
 
-## 📊 GitHub Metrics
-
-<div align="center">
-  <img src="./github-metrics.svg" alt="GitHub metrics" width="80%" />
-</div>
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonyco97&theme=radical&hide_border=true" alt="streak stats" />
