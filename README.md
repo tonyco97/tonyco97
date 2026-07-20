@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Antonio&fontColor=ffffff&fontSize=70&animation=fadeIn&desc=Software%20Developer%20%40%20Nethesis&descSize=18&descAlignY=62" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=180&section=header&text=Hi,%20I'm%20Antonio%20%F0%9F%91%8B&fontColor=ffffff&fontSize=48&fontAlignY=40" alt="header" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=520&lines=VoIP+%26+Frontend+enthusiast;Open+source+contributor;React+%7C+Node.js+%7C+Go" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=560&lines=Software+Developer+%40+Nethesis;VoIP+%26+Frontend+enthusiast;Open+source+contributor;React+%7C+Node.js+%7C+Go" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="AntonioImage.png" alt="Antonio" width="380" />
+  <img src="AntonioImage.png" alt="Antonio" width="360" />
 </div>
 
 <p align="center">
@@ -63,17 +63,29 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/nethesis/phone-island">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=nethesis&repo=phone-island&theme=radical&hide_border=true&cache_seconds=86400" />
-  </a>
-  <a href="https://github.com/nethesis/nethvoice-cti">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=nethesis&repo=nethvoice-cti&theme=radical&hide_border=true&cache_seconds=86400" />
-  </a>
-</div>
+### 📞 [phone-island](https://github.com/nethesis/phone-island)
 
-> **phone-island** — Standalone component to handle calls, video calls, screen sharing and chat.
-> **nethvoice-cti** — Web CTI client for NethVoice, built with Next.js.
+Standalone React component to handle calls, video calls, screen sharing and chat.
+
+![stars](https://img.shields.io/github/stars/nethesis/phone-island?style=flat-square&color=8A2BE2&labelColor=1c1c2e&logo=github)
+![top language](https://img.shields.io/github/languages/top/nethesis/phone-island?style=flat-square&color=3178C6&labelColor=1c1c2e)
+![last commit](https://img.shields.io/github/last-commit/nethesis/phone-island?style=flat-square&color=4FC08D&labelColor=1c1c2e)
+
+### 💻 [nethvoice-cti](https://github.com/nethesis/nethvoice-cti)
+
+Web CTI client for NethVoice, built with Next.js, React and Tailwind.
+
+![stars](https://img.shields.io/github/stars/nethesis/nethvoice-cti?style=flat-square&color=8A2BE2&labelColor=1c1c2e&logo=github)
+![top language](https://img.shields.io/github/languages/top/nethesis/nethvoice-cti?style=flat-square&color=3178C6&labelColor=1c1c2e)
+![last commit](https://img.shields.io/github/last-commit/nethesis/nethvoice-cti?style=flat-square&color=4FC08D&labelColor=1c1c2e)
+
+---
+
+## 🧊 Contribution Calendar (3D)
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="90%" />
+</div>
 
 ---
 
@@ -85,25 +97,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="170" src="https://github-readme-stats.vercel.app/api?username=tonyco97&show_icons=true&theme=radical&hide_border=true&rank_icon=github&count_private=true&cache_seconds=86400" />
-      </td>
-      <td>
-        <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyco97&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" />
-      </td>
-    </tr>
-  </table>
+  <img src="./github-metrics.svg" alt="GitHub metrics" width="80%" />
+</div>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonyco97&theme=radical&hide_border=true" />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonyco97&theme=redical&hide_border=true&area=true" />
-
-  <img src="https://github-profile-trophy.vercel.app/?username=tonyco97&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonyco97&theme=radical&hide_border=true" alt="streak stats" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonyco97&theme=redical&hide_border=true&area=true" alt="activity graph" />
 </div>
 
 ---
